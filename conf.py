@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Vertillusion Docs'
+project = 'Vertillusion'
 copyright = '2019 - 2023, Vertillusion Studio'
 author = 'Vertillusion Studio'
 
