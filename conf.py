@@ -25,3 +25,5 @@ language = 'zh_CN'
 
 html_theme = 'furo'
 html_static_path = ['_static']
+
+source_suffix = {'.rst': 'restructuredtext','.md': 'markdown'}
