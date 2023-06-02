@@ -23,6 +23,14 @@ language = 'zh_CN'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_copy_source = False
+html_context = {
+    'display_github': True,
+    'github_user': 'KaguraiYoRoy',
+    'github_repo': 'docs.vertillusion.xyz',
+    'github_version': 'source/'
+}
+
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
