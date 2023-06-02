@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Vertillusion'
-copyright = '2019 - 2023, Vertillusion Studio'
+copyright = '2019 - 2023, Vertillusion Studio - Meet, Inspire, Create.'
 author = 'Vertillusion Studio'
 
 # -- General configuration ---------------------------------------------------
