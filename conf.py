@@ -9,6 +9,7 @@
 project = 'Vertillusion'
 copyright = '2019 - 2023, Vertillusion Studio - Meet, Inspire, Create.'
 author = 'Vertillusion Studio'
+html_baseurl = 'https://docs.vertillusion.xyz/'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

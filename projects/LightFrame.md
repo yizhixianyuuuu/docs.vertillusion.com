@@ -21,7 +21,7 @@ _TODO_
 ## 贡献者
 
 | 昵称 | 贡献内容 |
-| -------- | -------- |
+| :------: | :------: |
 | 沫狐奶昔 CimiMoly | 是LightFrame的造物主啦~ *:"Vertillusion"是属"CimiMoly"所有的发布载体. |
 | 辰落火辉 Haceau-Zoac | vui.parser |
 | 憨包 MeroWindows | vui.dom |
