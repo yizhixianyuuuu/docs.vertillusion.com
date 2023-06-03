@@ -1,8 +1,8 @@
 # LightFrame
 
-_传送门：[LightFrame官方网站-定义热爱的桌面] | https://lightframe.vertillusion.xyz/_  
+_传送门：[LightFrame官方网站-定义热爱的桌面](https://lightframe.vertillusion.xyz/)_  
 
-开发：[沫狐奶昔CimiMoly] | https://github.com/EnderMo  
+开发：[沫狐奶昔CimiMoly](https://github.com/EnderMo)  
 
 ## 软件特点
 * 即开即用。使用自开发轻量级框架,实现极低的资源占用<sup>1</sup>在满足桌面体验需求的同时保证日常使用流畅。  
@@ -19,8 +19,9 @@ _传送门：[LightFrame官方网站-定义热爱的桌面] | https://lightframe
 _TODO_
 
 ## 贡献者
+
 | 昵称 | 贡献内容 |
-| ---- | ---- |
+| -------- | -------- |
 | 沫狐奶昔 CimiMoly | 是LightFrame的造物主啦~ *:"Vertillusion"是属"CimiMoly"所有的发布载体. |
 | 辰落火辉 Haceau-Zoac | vui.parser |
 | 憨包 MeroWindows | vui.dom |

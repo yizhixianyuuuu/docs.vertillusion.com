@@ -34,6 +34,10 @@ html_context = {
     'github_version': 'source/'
 }
 
+source_parsers = {
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
+
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
