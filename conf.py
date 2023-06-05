@@ -30,7 +30,7 @@ language = 'zh_CN'
 html_copy_source = False
 html_context = {
     'display_github': True,
-    'github_user': 'KaguraiYoRoy',
+    'github_user': 'Vertillusion',
     'github_repo': 'docs.vertillusion.xyz',
     'github_version': 'source/'
 }
