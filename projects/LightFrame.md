@@ -28,7 +28,7 @@ _传送门：[LightFrame官方网站-定义热爱的桌面](https://lightframe.v
 1. 访问[论坛](https://forum.vertillusion.xyz/)，注册一个账号并发贴求助
 2. 加室长的QQ：2016860442，收集错误信息反馈bug
 
-请提供`C:\Users\33633\AppData\Roaming\LightFrame`文件夹下的 **.vui**文件，这将有助于Bug的判断  
+请提供`C:\Users\账户名\AppData\Roaming\LightFrame`文件夹下的 **.vui**文件，这将有助于Bug的判断  
 关于提问的方式，请参考[【搬运】提问的艺术 - Vertillusion](https://forum.vertillusion.xyz/d/34-ban-yun-ti-wen-de-yi-zhu)
 
 
