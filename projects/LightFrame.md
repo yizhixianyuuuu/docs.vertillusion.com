@@ -16,7 +16,26 @@ _传送门：[LightFrame官方网站-定义热爱的桌面](https://lightframe.v
 </sup>
 
 ## 使用教程
-_TODO_
+从[官网](https://lightframe.vertillusion.xyz/)下载**LightFrame.zip**，并解压到一个固定的文件夹。  
+**请勿直接在压缩包内打开！**  
+如果双击运行出现`0xc000007b`、`找不到msvcp140.dll`等类似提示，请参考[Q&A.1](#id3)下载安装运行库  
+（然后就可以愉快的使用啦）  
+如果在使用的过程中遇到了Bug，我们欢迎您向我们反馈，具体请参考[Bug反馈](#bug)
+
+## Bug反馈
+您可以通过一下两个渠道反馈bug：  
+
+1. 访问[论坛](https://forum.vertillusion.xyz/)，注册一个账号并发贴求助
+2. 加室长的QQ：2016860442，收集错误信息反馈bug
+
+请提供`C:\Users\33633\AppData\Roaming\LightFrame`文件夹下的**.vui**文件，这将有助于Bug的判断  
+关于提问的方式，请参考[【搬运】提问的艺术 - Vertillusion](https://forum.vertillusion.xyz/d/34-ban-yun-ti-wen-de-yi-zhu)
+
+
+## Q&A
+### 1.
+* Q:0xc000007b报错怎么办(找不到msvcp140.dll等)  
+* A:下载安装：[https://aka.ms/vs/16/release/vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)  
 
 ## 贡献者
 
@@ -30,7 +49,6 @@ _TODO_
 | 飞飞 Skywards | 网站优化 |
 | 诺尔 SlimeNull | 网站优化 |
 
----------
 ## 关于更新
 LightFrame**不会**自动更新，只有当用户点击**检查更新**按钮后才会开始 
 ![更新按钮](images/lightframe-update-entrance.png)   
