@@ -40,6 +40,11 @@ source_parsers = {
 }
 
 html_theme = 'sphinx_rtd_theme'
+html_theme_options = {
+    'style_nav_header_background' : '#5b49c2',
+    'logo_only' : False
+}
 html_static_path = ['_static']
+# html_logo = '_static/VertillusionNew_.png'
 
 source_suffix = {'.rst': 'restructuredtext','.md': 'markdown'}
