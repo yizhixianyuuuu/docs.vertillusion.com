@@ -32,7 +32,7 @@ html_context = {
     'display_github': True,
     'github_user': 'Vertillusion',
     'github_repo': 'docs.vertillusion.xyz',
-    'github_version': 'source/'
+    'github_version': 'source/source/'
 }
 
 source_parsers = {
