@@ -6,7 +6,7 @@ Vertillusion Studio
 =========================
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: 基本信息
     :glob:
 
@@ -16,7 +16,7 @@ Vertillusion Studio
     basic/Websites.md
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: 项目
     :glob:
 
