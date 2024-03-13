@@ -9,3 +9,4 @@
 | [GitLab](https://git.vertillusion.com/) | GitLab Community（未正式投入使用） |
 | [CodeServer](https://code.vertillusion.com/) | VSCode 网页版（未正式投入使用） |
 | [状态监控](https://status.vertillusion.com/) | 服务器状态监控页面 |
+| [BlueMap](https://map.vertillusion.com/) | Minecraft服务器缩略图 |
