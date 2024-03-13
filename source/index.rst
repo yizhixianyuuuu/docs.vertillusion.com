@@ -21,4 +21,5 @@ Vertillusion Studio
     :glob:
 
     projects/LightFrame.md
+    projects/Minecraft.md
     projects/Passport.md
